@@ -7,7 +7,7 @@ public class EJournal implements Borrowable {
 
     @Override
     public String getResourceType() {
-        return "Book";
+        return "E-Journal";
     }
 
     @Override
