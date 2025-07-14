@@ -1,4 +1,4 @@
-# SOLID-Principles Design Patterns
+# SOLID Principles Design Patterns
 
 The NEU Library offers a variety of resources, including books, theses, capstones, internet access, journals, and newspapers.
 
