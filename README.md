@@ -1,4 +1,4 @@
-# Lab-Assignment-6-SOLID-Principles-with-Design-Pattern
+# SOLID-Principles-with-Design-Pattern
 
 The NEU Library offers a variety of resources, including books, theses, capstones, internet access, journals, and newspapers.
 
