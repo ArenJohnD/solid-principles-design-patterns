@@ -1,4 +1,4 @@
-# SOLID Principles Design Patterns
+# NEU Library Resource Borrowing System
 
 The NEU Library offers a variety of resources, including books, theses, capstones, internet access, journals, and newspapers.
 
